@@ -1,4 +1,4 @@
-package com.example.darialearningapplication
+package otus.gpb.homework.activities
 
 import org.junit.Test
 
